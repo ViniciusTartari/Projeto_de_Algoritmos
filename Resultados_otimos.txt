@@ -1,0 +1,6 @@
+---------------Resultados ótimos---------------
+eil5.tsp  -> 106.99;
+eil10.tsp -> 225,57;
+eil51.tsp -> 426;
+eil76.tsp -> 538;
+eil101.tsp -> ?;
